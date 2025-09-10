@@ -1,0 +1,35 @@
+#+TITLE: EPROG: Python Programming Exercises and Exam Prep (Bioinformatics Master's Program)
+#+AUTHOR: Ricardo AO Medina
+#+LANGUAGE: en
+#+OPTIONS: toc:nil
+
+* 🧬 Overview
+This repository contains a structured collection of Python exercises, exam preparation materials, and practical notebooks developed during the Master's program in Bioinformatics. The content is written in German and reflects coursework from the module *Einführung in das Programmieren* (Introduction to Programming).
+
+* 📁 Repository Contents
+
+** 🔹 Programming Foundations
+Core concepts such as variables, control flow, data structures, and functions are explored in these folders:
+
+- [[https://github.com/medinari/EPROG/tree/main/1_Grundlagen_Programmiertechniken][1_Grundlagen_Programmiertechniken]]
+- [[https://github.com/medinari/EPROG/tree/main/2_Kontrollstrukturen][2_Kontrollstrukturen]]
+- [[https://github.com/medinari/EPROG/tree/main/3_Datenstrukturen][3_Datenstrukturen]]
+- [[https://github.com/medinari/EPROG/tree/main/4_Funktionen][4_Funktionen]]
+- [[https://github.com/medinari/EPROG/tree/main/5_Konzepte_Vertiefen][5_Konzepte_Vertiefen]]
+
+** 🔹 Advanced Topics
+These folders cover exceptions, recursion, generators, file handling, and object-oriented programming:
+
+- [[https://github.com/medinari/EPROG/tree/main/6_Exceptions_Rekursion_Generatoren][6_Exceptions_Rekursion_Generatoren]]
+- [[https://github.com/medinari/EPROG/tree/main/6a_Zwishchen_test][6a_Zwishchen_test]]
+- [[https://github.com/medinari/EPROG/tree/main/7_Files][7_Files]]
+- [[https://github.com/medinari/EPROG/tree/main/7a_Praesentationen_Biopython][7a_Praesentationen_Biopython]]
+- [[https://github.com/medinari/EPROG/tree/main/8_OOP(Teil-1)][8_OOP(Teil-1)]]
+- [[https://github.com/medinari/EPROG/tree/main/9_OOP(Teil-2)][9_OOP(Teil-2)]]
+
+** 🔹 Exams, Exam Preparation & Practice
+Materials designed to reinforce learning and prepare for assessments:
+
+- [[https://github.com/medinari/EPROG/tree/main/11_Pruefung_vorbereitung][11_Pruefung_vorbereitung]]
+- [[https://github.com/medinari/EPROG/tree/main/12_Pruefung_1][12_Pruefung_1]]
+- [[https://github.com/medinari/EPROG/tree/main/14_Pruefung_3][14_Pruefung_3]]
